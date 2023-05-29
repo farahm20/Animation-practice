@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Styling and Animation practice project. 
+
+This is CSS practice project that uses Theme-ui and Emotion library. 
+The project explores different types of animations. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
